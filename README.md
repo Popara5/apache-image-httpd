@@ -1,6 +1,6 @@
 # apache-image-httpd
 creating an apache docker-image httpd
-The apache-image-httpd is a Docker image that contains the Apache HTTP Server (httpd)1
+the apache-image-httpd is a Docker image that contains the Apache HTTP Server (httpd)1
 . It's used to run Apache in a containerized environment, making it easy to deploy and manage web applications.
 Here's how it works:
 Pull the Image: You start by pulling the official httpd image from Docker Hub:
